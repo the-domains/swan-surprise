@@ -1,0 +1,14 @@
+layout_spectrum: 0.2046544263139367
+typography_spectrum: 0.8984179678373039
+color:
+  brandStrength: 0.3341918922960758
+  lightness: 0.561956645688042
+  saturation: 0.06276401854120195
+  rhythmicContrast: 0.7065802523866296
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: swan surprise
